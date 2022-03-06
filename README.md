@@ -1,2 +1,2 @@
 # Recipes
-This is the recipe project in the odin project 
+This is the recipe project in Odin
