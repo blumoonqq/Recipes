@@ -1,2 +1,2 @@
 # Recipes
-This is the recipe project in Odin
+This is the an exploration project named recipe for no reason 
